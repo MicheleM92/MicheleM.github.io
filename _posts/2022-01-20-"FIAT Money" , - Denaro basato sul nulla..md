@@ -1,4 +1,4 @@
-FIAT Money - Denaro basato sul nulla.
+"FIAT Money" - Denaro basato sul nulla.
 ---
 Tra la fine degli anni '40 e l'inizio degli anni '50 gli Stati Uniti cominciarono ad utilizzare il nuovo potere concesso dal "Bretton Wood System" per stampare soldi tutte le volte fosse necessario finanziare programmi sociali ed economici, investire in educazione e sviluppo tecnologico.
 Attraverso questi investimenti e essendo uscita vincitrice dalla Seconda Guerra Mondiale l'America incrementò a dismisura il proprio potere economico e finanziario.
