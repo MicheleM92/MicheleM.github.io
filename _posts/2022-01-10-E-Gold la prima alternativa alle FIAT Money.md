@@ -1,5 +1,4 @@
-##E-Gold la prima alternativa alle FIAT Money
-
+E-Gold la prima alternativa alle FIAT Money
 ---
 
 Nel 1996 circa 13 anni prima dell'invezione del Bitcoin esisteva un azienda dot-com chiamata E-Gold.
@@ -13,7 +12,6 @@ E-Gold aveva come base infatti in uno dei tanti paradisi fiscali ma i suoi uffic
 Proprio quando E-Gold stava minando il monopolio dello stato nella stampa della moneta, puff E-gold scomparve, d'altronde i creatori non erano anonimi.
 
 Peter Thiel, co-fondatore di PayPal e CEO di Palantir è convinto che chiunque sia Satoshi Nakamoto fosse al corrente dell'argomento E-Gold e capì che per poter rilasciare una valuta decentralizzata e togliere il monopolio dallo stato era necessario essere anonimi.
-
 
 ---
 
