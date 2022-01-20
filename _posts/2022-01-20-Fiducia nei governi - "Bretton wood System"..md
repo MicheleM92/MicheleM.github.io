@@ -27,7 +27,7 @@ Il resto degli stati infatti dovettero adattare il valore delle proprie valute e
 
 Il denaro cominciò quindi a basarsi sulla fiducia nel sistema economico e finanziario americano, nel loro governo e nel loro controllo sulla politica monetaria.
 
-##Il valore dei soldi diventò sempre più astratto e fu chiaro che la più grande tentazione fosse quella di stampar soldi dal nulla.
+Il valore dei soldi diventò sempre più astratto e fu chiaro che la più grande tentazione fosse quella di stampar soldi dal nulla.
 
 ---
 M.
