@@ -1,4 +1,4 @@
-Denaro
+Storia del Denaro
 ---
 
 Come ha fatto l'umanità ad arrivare a cedere il proprio tempo libero in cambio di denaro?
