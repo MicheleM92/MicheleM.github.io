@@ -9,6 +9,8 @@ Come hanno fatto questi pezzi di carta a diventare così essenziali nella societ
 
 Prima che il denaro fosse inventato, le persone scambiavano i beni attraverso il baratto ovvero l'atto di scambiare un bene/servizio con un altro. (#immagine mela/pesce ecc)
 
+![baratto](https://i.ibb.co/ZTtJJd2/dddd.jpg)
+
 Il baratto veniva principalmente utiizzato per scambiare cibo all'interno della comunità ma non era efficiente.
 Non sempre infatti si aveva l'accordo tra le controparti (la persona che possiede la mela potrebbe non volere le uova che un'altra persona vuole scambiare) e allo stesso tempo risulta difficile avere un' equità negli scambi (come si decide quanto vale una mela rispetto a un uovo?).
 
