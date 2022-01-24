@@ -28,7 +28,7 @@ Per evitare questi problemi, cominciarono a circolare principalmente monete crea
 ![Trade](https://i.ibb.co/nR4B1yJ/trade-denaro.png)
 
 Le monete possedevano quindi un valore dato dal "Metal Standard" ovvero dato dalla quantità e dal tipo di metalli preziosi con la quale le monete venivano coniate.
-Gli scambi in questo modo risultavano più equi e allo stesso tempo si limitava la quantità di denaro circolabile.
+Gli scambi in questo modo risultavano più equi e allo stesso tempo si limitava la quantità di denaro circolabile (Es. [Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)).
 Ovviamente iniziarono le prime truffe relative a questa forma di denaro, fondendo infatti le monete e ricostituendole con minor quantità di metalli preziosi era possibile rimetterle sul mercato trattenendo per se la parte di metallo prezioso (#es oro) sottratto.
 Vi era inoltre il problema logistico dovuto al peso delle monete durante il trasporto, specialmente per i governi durante il ritiro delle tasse o per gli scambi di grosse quantità di beni.
 Per ovviare questi problemi in Cina il governo cominciò a utilizzare pezzi di carta sui quali veniva applicato un sigillo del governo per effettuare gli scambi. 
