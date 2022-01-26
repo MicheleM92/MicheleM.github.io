@@ -1,4 +1,4 @@
-4) E-Gold la prima alternativa alle "FIAT Money".
+## 4. E-Gold la prima alternativa alle "FIAT Money".
 ---
 
 Nel 1996 circa 13 anni prima dell'invezione del Bitcoin esisteva un azienda dot-com chiamata E-Gold.
