@@ -1,4 +1,6 @@
 ## 4° E-Gold la prima alternativa alle "FIAT Money".
+
+![egold](https://i.ibb.co/KbHyhzx/golde.png)
 ---
 
 Nel 1996 circa 13 anni prima dell'invezione del Bitcoin esisteva un azienda dot-com chiamata E-Gold.
@@ -12,7 +14,7 @@ Se qualcuno avesse ritirato quindi 71 milioni di oro non ci sarebbe piu' stata l
 Nulla di diverso dalle [Fiat Money](https://lockijohn.github.io/2022/01/17/FIAT-Money-,-Denaro-basato-sul-nulla/html) come Dollaro o Euro.
 
 L'anonimosità funzionò sia come motivazione per utilizzare E-Gold ma allo stesso tempo questo sistema criptato divenne vittima da parte della criminalità per operazioni illegali.
-
+![ff](https://i.ibb.co/F7s7vgM/crimin.png)
 Attraverso una legge chiamata "Patriot act" passata dopo l'attacco terroristico alle torri gemelle il governo americano rese illegale effettuare operazioni finanziarie per qualsiasi organizzazione senza una licenza rendendo così di fatto illegale anche E-Gold. 
 E-Gold aveva come base infatti in uno dei tanti paradisi fiscali ma i suoi uffici si trovavano in Florida e i creatori non erano anomimi e di colpo erano divennero criminali.
 
