@@ -24,7 +24,7 @@ Il tutto risultava comunque inefficiente, inequo e spesso vittima di contraffazi
 
 Per evitare questi problemi, cominciarono a circolare monete create attraverso la fusione di metalli preziosi e l'applicazione di un sigillo che le rendesse difficili da contraffare.
 
-![Trade](https://i.ibb.co/nR4B1yJ/trade-denaro.png)
+![Trade](https://i.ibb.co/1LSGskW/RRf-Gqdj62-G8-Kx-YRpyf9-Sd8-1200-80.jpg)
 
 Le monete possedevano quindi un valore dato dal "Metal Standard" ovvero dato dalla quantità e dal tipo di metalli preziosi con la quale le monete venivano coniate.
 
