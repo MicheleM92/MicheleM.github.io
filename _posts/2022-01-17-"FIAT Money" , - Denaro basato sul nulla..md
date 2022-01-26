@@ -1,6 +1,7 @@
 "FIAT Money" - Denaro basato sul nulla.
 ---
 Tra la fine degli anni '40 e l'inizio degli anni '50 gli Stati Uniti cominciarono ad utilizzare il nuovo potere concesso dal "[Bretton Wood System](https://lockijohn.github.io/2022/01/16/Fiducia-nei-governi-Bretton-wood-System-/html)" per stampare soldi tutte le volte fosse necessario finanziare programmi sociali ed economici, investire in educazione e sviluppo tecnologico. 
+
 Attraverso questi investimenti e essendo uscita vincitrice dalla Seconda Guerra Mondiale l'America incrementò a dismisura il proprio potere economico e finanziario e incrementò il divario con un Europa ancora distrutta dalla guerra.
  
 Questo tipo di modello economico con crescita esponenziale non era ovviamente sostenibile e con l'entrata in guerra degli USA in Vietnam il governo statunitense cominciò a spendere sempre più denaro pubblico per il conflitto. Il tutto portò le spese pubbliche ad un punto critico e l'America continuava a stampare soldi dal nulla per autofinanziarsi.
@@ -13,6 +14,7 @@ Questo effetto domino rischiava di mettere in pericolo il potere del dollaro e R
 
 Questo provvedimento che doveva essere inziialmente solo temporaneo divenne ben presto permanente e la base per una nuova moneta basata sul nulla, il denaro che tutti noi utilizziamo e per la quale affittiamo il nostro tempo libero quotidianamente. 
 Soldi con un valore basato solo dal loro utilizzo e dalla quantità di soggetti che la utilizzano.
+
 Una valuta basata solo sulla fiducia da parte del mondo nella valuta stessa, le così dette "FIAT Money" (Es. dollari, euro, yen ecc).
 
 ---
