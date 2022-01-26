@@ -24,7 +24,7 @@ Molti stati non erano più collegati al "[Gold Standard](https://it.wikipedia.or
 
 ![Gold](https://i.ibb.co/XsXGSLz/Bretton.png)
 
-Con questo obbiettivo gli esponenti dei 40 governi più ricchi e imoportanti al mondo si ritrovarono al "Bretton Wood Hotel" per cercare un nuovo standard per una valuta mondiale come base allo scambio internazionale degli Alleati durante la Seconda Guerra Mondiale. 
+Con questo obbiettivo gli esponenti dei 40 governi più ricchi e importanti al mondo si ritrovarono al "Bretton Wood Hotel" per cercare un nuovo standard per una valuta mondiale come base allo scambio internazionale degli Alleati durante la Seconda Guerra Mondiale. 
 
 ![dollar](https://i.ibb.co/wLLRJmk/Dollarpow.png)
 
