@@ -11,6 +11,7 @@ Prima che il denaro fosse inventato, le persone scambiavano i beni attraverso il
 ![baratto](https://i.ibb.co/ZTtJJd2/dddd.jpg)
 
 Il baratto veniva principalmente utiizzato per scambiare cibo all'interno della comunità ma non era efficiente.
+
 Non sempre infatti si ha l'accordo tra le controparti e allo stesso tempo risulta difficile avere un' equità negli scambi (come si decide quanto vale una mela rispetto a un vaso?).
 
 ![Denaro](https://i.ibb.co/0DG7H7N/denaro.png)
@@ -26,6 +27,7 @@ Per evitare questi problemi, cominciarono a circolare monete create attraverso l
 ![Trade](https://i.ibb.co/nR4B1yJ/trade-denaro.png)
 
 Le monete possedevano quindi un valore dato dal "Metal Standard" ovvero dato dalla quantità e dal tipo di metalli preziosi con la quale le monete venivano coniate.
+
 Gli scambi in questo modo risultavano più equi e si limitava la quantità di denaro in circolazione. (Es. [Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)).
 
 Iniziarono quindi le prime truffe, fondendo infatti le monete e ricostituendole con minor quantità di metalli preziosi era possibile rimetterle sul mercato trattenendo per se la parte di metallo prezioso (#es oro) sottratto.
@@ -38,6 +40,7 @@ Queste banconote avevano valore dato dalla quantità di monete che era possibile
 ![Papermoney](https://i.ibb.co/xJsyy4s/China-money.png)
 
 Col passare del tempo si notò che questi banconote non venivano quasi mai utilizzate per il ritiro delle monete preziose ma venivano spesso scambiate con beni e servizi in quanto sempre più mercanti accettavano questa valuta.
+
 I governi erano favorevoli alla diffusione del denaro cartaceo in quanto potevano controllarne l'immissione nell'economia essendo gli unici a poter stampare denaro.
 
 Coloro che utilizzavano il denaro erano rassicurati dal fatto che, in caso di bisogno, avrebbero potuto ritirare il valore del proprio denaro (es. dollaro) nella quantità di metallo prezioso (es. oro) senza doversi soppesare i costi e i problemi del custodire ingenti quantità di metalli preziosi custoditi invece dalle banche e governi.
@@ -48,6 +51,7 @@ Se le persone iniziassero effettivamente a presentare i soldi alle banche per il
 "Chi controlla il controllore?"
 
 La risposta ad oggi è nessuno, ben presto da denaro basato su un valore intrinseco diventò denaro basato sulla fiducia. 
+
 Fiducia nei governi.
 
 ---
