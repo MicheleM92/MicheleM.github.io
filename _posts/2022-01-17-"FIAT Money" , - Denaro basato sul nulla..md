@@ -15,7 +15,7 @@ Solo la guerra in Vietnam costò agli Stati Uniti 168 miliardi di dollari per 20
 
 Il resto del mondo cominciò a notare la spesa ingente americana e, preoccupati che l'America stesse stampando e spendendo più valuta della quantità di oro presente nelle proprie riserve, cominciò a riacquistare il proprio oro in cambio di dollari e la fiducia nel dollaro cominciò a venire meno.
 
-![domino](https://previews.123rf.com/images/nasirkhan/nasirkhan1108/nasirkhan110800243/10402682-3d-dollars-packs-falling-in-the-line-of-domino.jpg)
+![domino](https://i.ibb.co/s6Krh10/Screenshot-2022-01-26-142443.png)
 
 Questo effetto domino rischiava di mettere in pericolo il potere del dollaro e Richard Nixon, presidente americano nel 1971, sospese (NB in teoria temporaneamente) la possibilità per gli altri stati di convertire dollari in oro in modo da salvaguardare la stabilità monetaria mondiale dagli speculatori ma sopratutto le proprie riserve di oro. ([Inserire video NIXON dichiarazione off gold standard](https://www.youtube.com/watch?v=rcnhF09QN78&ab_channel=AlbertoVeronese)
 
