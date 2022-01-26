@@ -12,7 +12,7 @@ Prima che il denaro fosse inventato, le persone scambiavano i beni attraverso il
 
 Il baratto veniva principalmente utiizzato per scambiare cibo all'interno della comunità ma non era efficiente.
 
-Non sempre infatti si ha l'accordo tra le controparti e allo stesso tempo risulta difficile avere un' equità negli scambi (come si decide quanto vale una mela rispetto a un vaso?).
+Non sempre si ha l'accordo tra le controparti e allo stesso tempo risulta difficile avere equità negli scambi (come si decide quanto vale una mela rispetto a un vaso?).
 
 ![Denaro](https://i.ibb.co/0DG7H7N/denaro.png)
 
