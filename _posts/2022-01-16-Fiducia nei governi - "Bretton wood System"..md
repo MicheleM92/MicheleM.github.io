@@ -11,6 +11,7 @@ Con lo scoppio della "Prima Guerra Mondiale" questo equilibrio venne meno, gli a
 Cosa sarebbe successo se i cittadini avessero cominciato a ritirare il proprio oro in cambio del denaro? L'oro era necessario per finanziare la guerra e la ricostruzione post conflitto. Il poco oro nelle riserve dello stato non poteva essere restituito ai cittadini.
 
 Per affrontare il problema gli Stati Uniti nel 1930 cominciarono ad accumulare in massa l'oro di istituzionali e cittadini in cambio di dollari rendendo per esempio illegale l'acquisto di beni tramite l'utilizzo di monete d'oro e aumentando del 40% il prezzo offerto dallo stato per l'acquisto di oro.
+
 In questo modo gli USA forzarono di fatto l'accumulo del metallo nelle casse dello stato.
 
 Il valore dell'oro crebbe a tal punto che gli stessi altri stati nel mondo trovarono profittevole scambiare il proprio oro in cambio di dollari e ben presto le riserve americane costudirono la maggior parte dell'oro in circolazione nel mondo.
@@ -22,6 +23,7 @@ Molti stati non erano più collegati al "[Gold Standard](https://it.wikipedia.or
 Con questo obbiettivo gli esponenti dei 40 governi più ricchi e imoportanti al mondo si ritrovarono al "Bretton Wood Hotel" per cercare un nuovo standard per una valuta mondiale come base allo scambio internazionale degli Alleati durante la Seconda Guerra Mondiale. 
 
 In quel momento il dollaro era una delle poche valute ancora correlata al "[Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)" e allo stesso tempo la maggior parte dell'oro in circolazione era situato in America.
+
 Per questi motivi venne stabilito che il nuovo standard sarebbe stato 35 dollari per oncia d'oro (NDR Oncia circa 28 grammi) e che i dollari sarebbero quindi diventati la valuta di riferimento per il resto del mondo.
 
 Il resto degli stati infatti dovettero adattare il valore delle proprie valute e dei popri debiti sulla base del dollaro dando totale fiducia alle riserve d'oro degli USA e al loro controllo della quantità di moneta stampata.
