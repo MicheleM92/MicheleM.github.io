@@ -1,4 +1,4 @@
-## 1. j Storia del Denaro
+## 1° Storia del Denaro
 ---
 
 
