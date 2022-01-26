@@ -10,15 +10,15 @@ Con lo scoppio della "Prima Guerra Mondiale" questo equilibrio venne meno, gli a
 
 Cosa sarebbe successo se i cittadini avessero cominciato a ritirare il proprio oro in cambio del denaro? 
 
-L'oro era necessario per finanziare la guerra e la ricostruzione post conflitto , il poco oro nelle riserve dello stato non poteva essere restituito.
+L'oro era necessario per finanziare la guerra e la ricostruzione post conflitto, il poco oro nelle riserve dello stato non poteva essere restituito.
 
-Per affrontare il problema gli Stati Uniti nel 1930 cominciarono ad accumulare in massa l'oro in cambio di dollari rendendo per esempio illegale l'acquisto di beni tramite l'utilizzo di monete d'oro e aumentando del 40% il prezzo offerto dallo stato per l'acquisto di oro.
+Per affrontare il problema gli Stati Uniti nel 1930 cominciarono ad accumulare in massa l'oro in cambio di dollari rendendo illegale l'acquisto di beni tramite l'utilizzo di monete d'oro e aumentando del 40% il prezzo offerto dallo stato per l'acquisto di oro.
 
-In questo modo gli USA forzarono di fatto l'accumulo del metallo nelle casse dello stato.
+In questo modo gli USA forzarono l'accumulo del metallo nelle casse dello stato.
 
-Il valore dell'oro crebbe a tal punto che gli stessi altri stati nel mondo trovarono profittevole scambiare il proprio oro in cambio di dollari e ben presto le riserve americane costudirono la maggior parte dell'oro in circolazione nel mondo.
+Il valore dell'oro crebbe a tal punto che gli altri stati nel mondo trovarono profittevole scambiare il proprio oro in cambio di dollari e ben presto le riserve americane costudirono la maggior parte dell'oro in circolazione nel mondo.
 
-Con lo scoppio della Seconda Gurra Mondiale e l'aumento esponenziale di costi e debiti per gli Stati si creò una totale destabilizzazione del sistema monetario ancora scosso dal primo conflitto mondiale. 
+Con lo scoppio della Seconda Gurra Mondiale e l'aumento esponenziale di costi e debiti per gli Stati si creò una destabilizzazione del sistema monetario ancora scosso dal primo conflitto mondiale. 
 
 Molti stati non erano più collegati al "[Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)" e fu presto necessario trovare le basi per un nuovo sistema monetario internazionale. Serviva una valuta come base mondiale.
 
@@ -30,11 +30,11 @@ Con questo obbiettivo gli esponenti dei 40 governi più ricchi e imoportanti al 
 
 In quel momento il dollaro era una delle poche valute ancora correlata al "[Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)" e allo stesso tempo la maggior parte dell'oro in circolazione era situato in America.
 
-Per questi motivi venne stabilito che il nuovo standard sarebbe stato 35 dollari per oncia d'oro (NDR Oncia circa 28 grammi) e che i dollari sarebbero quindi diventati la valuta di riferimento per il resto del mondo.
+Venne quindi stabilito che il nuovo standard sarebbe stato 35 dollari per oncia d'oro (ovvero 28 grammi) e che i dollari sarebbero diventati la valuta di riferimento per il resto del mondo.
 
 ![dollarooro](https://i.ibb.co/JvVBsD1/Gold-standard-dollar-1.jpg)
 
-Il resto degli stati infatti dovettero adattare il valore delle proprie valute e dei popri debiti sulla base del dollaro dando totale fiducia alle riserve d'oro degli USA e al loro controllo della quantità di moneta stampata.
+Il resto degli stati dovettero adattare il valore delle proprie valute e dei propri debiti sulla base del dollaro dando totale fiducia alle riserve d'oro degli USA e al loro controllo della quantità di moneta stampata.
 
 Il denaro cominciò quindi a basarsi sulla fiducia nel sistema economico e finanziario americano, nel loro governo e nel loro controllo sulla politica monetaria.
 
