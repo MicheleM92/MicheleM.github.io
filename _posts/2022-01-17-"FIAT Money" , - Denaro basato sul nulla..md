@@ -15,8 +15,12 @@ Il resto del mondo cominciò a notare la spesa ingente americana e, preoccupati 
 
 Questo effetto domino rischiava di mettere in pericolo il potere del dollaro e Richard Nixon, presidente americano nel 1971, sospese (NB in teoria temporaneamente) la possibilità per gli altri stati di convertire dollari in oro in modo da salvaguardare la stabilità monetaria mondiale dagli speculatori ma sopratutto le proprie riserve di oro. ([Inserire video NIXON dichiarazione off gold standard](https://www.youtube.com/watch?v=rcnhF09QN78&ab_channel=AlbertoVeronese)
 
-Questo provvedimento che doveva essere inziialmente solo temporaneo divenne ben presto permanente e la base per una nuova moneta basata sul nulla, il denaro che tutti noi utilizziamo e per la quale affittiamo il nostro tempo libero quotidianamente. 
-Soldi con un valore basato solo dal loro utilizzo e dalla quantità di soggetti che la utilizzano.
+Questo provvedimento che doveva essere inziialmente solo temporaneo divenne ben presto permanente e la base per una nuova moneta basata sul nulla.
+Il dollaro divenna quindi ufficialmente la valuta di scambio internazionale.
+
+[doll](https://i.ibb.co/mcysBBf/Diffusione-dollaro-grafico-comico.png")
+
+Il valore del denaro divenne quindi dato solo dall'utilizzo del denaro stesso e dalla quantità di soggetti che lo utilizzano.
 
 Una valuta basata solo sulla fiducia da parte del mondo nella valuta stessa, le così dette "FIAT Money" (Es. dollari, euro, yen ecc).
 
