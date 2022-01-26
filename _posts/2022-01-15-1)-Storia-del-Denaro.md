@@ -24,8 +24,6 @@ Il tutto risultava comunque inefficiente, inequo e spesso vittima di contraffazi
 
 Per evitare questi problemi, cominciarono a circolare monete create attraverso la fusione di metalli preziosi e l'applicazione di un sigillo che le rendesse difficili da contraffare.
 
-![Trade](https://i.ibb.co/1LSGskW/RRf-Gqdj62-G8-Kx-YRpyf9-Sd8-1200-80.jpg)
-
 Le monete possedevano quindi un valore dato dal "Metal Standard" ovvero dato dalla quantità e dal tipo di metalli preziosi con la quale le monete venivano coniate.
 
 Gli scambi in questo modo risultavano più equi e si limitava la quantità di denaro in circolazione. (Es. [Gold Standard](https://it.wikipedia.org/wiki/Sistema_aureo)).
@@ -37,11 +35,11 @@ Vi era inoltre il problema dovuto al peso delle monete durante il trasporto per 
 Per ovviare questi problemi in Cina il governo cominciò a utilizzare pezzi di carta sui quali veniva applicato un sigillo del governo da utilizzare per gli scambi. Le prime banconote.
 Queste banconote avevano valore dato dalla quantità di monete che era possibile ritirare fisicamente dalle banche con quel documento. (IOU, PAGHERo'#)
 
-![Papermoney](https://i.ibb.co/xJsyy4s/China-money.png)
-
 Col passare del tempo si notò che questi banconote non venivano quasi mai utilizzate per il ritiro delle monete preziose ma venivano spesso scambiate con beni e servizi in quanto sempre più mercanti accettavano questa valuta.
 
 I governi erano favorevoli alla diffusione del denaro cartaceo in quanto potevano controllarne l'immissione nell'economia essendo gli unici a poter stampare denaro.
+
+![Trade](https://i.ibb.co/1LSGskW/RRf-Gqdj62-G8-Kx-YRpyf9-Sd8-1200-80.jpg)
 
 Coloro che utilizzavano il denaro erano rassicurati dal fatto che, in caso di bisogno, avrebbero potuto ritirare il valore del proprio denaro (es. dollaro) nella quantità di metallo prezioso (es. oro) senza doversi soppesare i costi e i problemi del custodire ingenti quantità di metalli preziosi custoditi invece dalle banche e governi.
 
