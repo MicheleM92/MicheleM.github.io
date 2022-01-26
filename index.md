@@ -1,1 +1,1 @@
-A cure for curiority.
+A cure for curiosity.
