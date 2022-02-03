@@ -1,6 +1,9 @@
 Problemi esistenziali
 ---
 
+BOZZA VIDEO
+
+
 Per ragioni ancora sconosciute, centinaia di migliaia di anni fa l'homo sapiens divento' consapevole di se stesso e di cio' che gli stava attorno.
 in soli 200.000 anni il cervello duplico' in grandezza e l'essere umano comincio' la scalata nella catena alimentare.
 non c'era tempo di pensare ai problemi esistenziali e sicuramente non c'era tempo per la depressione.
